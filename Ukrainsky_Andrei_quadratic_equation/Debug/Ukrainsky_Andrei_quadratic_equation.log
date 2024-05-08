@@ -1,0 +1,5 @@
+﻿  quadratic_equation.c
+d:\мэи3\ооп\шмекс\c\ukrainsky_andrei_quadratic_equation\ukrainsky_andrei_quadratic_equation\quadratic_equation.c(14): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+  test.c
+  Создание кода...
+  Ukrainsky_Andrei_quadratic_equation.vcxproj -> D:\МЭИ3\ООП\Шмекс\C\Ukrainsky_Andrei_quadratic_equation\Debug\Ukrainsky_Andrei_quadratic_equation.exe
